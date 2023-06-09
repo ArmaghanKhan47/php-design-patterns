@@ -1,0 +1,16 @@
+{
+    "name": "armaghankhan/design-patterns",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Armaghan Hasan",
+            "email": "khanhassan918@ymail.com"
+        }
+    ],
+    "require": {}
+}
